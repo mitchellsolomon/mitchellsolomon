@@ -9,6 +9,7 @@
 👔 [linkedin]
 
 [website]: https://mitchellsolomon.dev
+[mitchellsolomon.dev]: https://mitchellsolomon.dev
 [twitter]: https://twitter.com/rmsolomon_
 [linkedin]: https://www.linkedin.com/in/mitchell-solomon-2894b4a4/
 
