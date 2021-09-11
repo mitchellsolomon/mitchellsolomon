@@ -4,6 +4,10 @@
 - 🔭 I’m currently working on [mitchellsolomon.dev](http://mitchellsolomon.dev)
 - 🌱 I’m currently learning Javascript
 
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
+
 <!--
 **rmsolomon/rmsolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
