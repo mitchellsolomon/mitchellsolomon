@@ -1,6 +1,6 @@
 
 ### Hi, I'm Mitchell 👋
-#### I am a Front End Developer.
+#### I'm a Front End Developer.
 
 - 🔭 I’m currently working on mitchellsolomon.dev
 - 🌱 I’m currently learning Javascript
