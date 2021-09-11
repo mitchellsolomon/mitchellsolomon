@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Mitchell 👋
 
 
 - 🔭 I’m currently working on [mitchellsolomon.dev](http://mitchellsolomon.dev)
