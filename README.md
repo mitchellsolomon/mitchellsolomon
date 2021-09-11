@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on [mitchellsolomon.dev]
 - 🌱 I’m currently learning Javascript
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin]
+🏡 [website] **|** 
+🐦 [twitter] **|** 
+👔 [linkedin]
 
 [website]: https://mitchellsolomon.dev
 [twitter]: https://twitter.com/rmsolomon_
