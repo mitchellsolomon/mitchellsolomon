@@ -1,14 +1,13 @@
 ### Hi, I'm Mitchell 👋
 
 
-- 🔭 I’m currently working on [mitchellsolomon.dev](http://mitchellsolomon.dev)
+- 🔭 I’m currently working on [website]
 - 🌱 I’m currently learning Javascript
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: 
 [website]: https://mitchellsolomon.dev
 [twitter]: https://twitter.com/rmsolomon_
 [linkedin]: https://www.linkedin.com/in/mitchell-solomon-2894b4a4/
