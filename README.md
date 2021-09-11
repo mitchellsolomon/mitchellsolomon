@@ -9,11 +9,6 @@
 🐦 [twitter] **|** 
 👔 [linkedin]
 
-[website]: https://mitchellsolomon.dev
-[mitchellsolomon.dev]: https://mitchellsolomon.dev
-[twitter]: https://twitter.com/rmsolomon_
-[linkedin]: https://www.linkedin.com/in/mitchell-solomon-2894b4a4/
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmsolomon)](https://github.com/anuraghazra/github-readme-stats)
 
 
