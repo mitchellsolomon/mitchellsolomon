@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Mitchell
+### Hi, I'm Mitchell 👋
 #### I am a Front End Developer
 ![I am a Front End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
