@@ -8,6 +8,11 @@
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
 
+[banner]: 
+[website]: https://mitchellsolomon.dev
+[twitter]: https://twitter.com/rmsolomon_
+[linkedin]: https://www.linkedin.com/in/mitchell-solomon-2894b4a4/
+
 <!--
 **rmsolomon/rmsolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
