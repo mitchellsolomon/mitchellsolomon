@@ -3,7 +3,7 @@
 #### I am a Front End Developer.
 
 - 🔭 I’m currently working on mitchellsolomon.dev
-- - 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rmsolomon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mitchellsolomon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rmsolomon_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](mitchellsolomon.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmsolomon)](https://github.com/anuraghazra/github-readme-stats)
