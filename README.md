@@ -1,7 +1,7 @@
 ### Hi, I'm Mitchell 👋
 
 
-- 🔭 I’m currently working on [website]
+- 🔭 I’m currently working on [mitchellsolomon.dev]
 - 🌱 I’m currently learning Javascript
 
 🏡 [website][website] **|** 
